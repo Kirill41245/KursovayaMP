@@ -1,0 +1,77 @@
+C:/Users/Кирилл/source/repos/Kursovaya MP/Kursovaya MP/bin/Debug/Kursovaya MP.exe.config
+C:/Users/Кирилл/source/repos/Kursovaya MP/Kursovaya MP/bin/Debug/Kursovaya MP.exe
+C:/Users/Кирилл/source/repos/Kursovaya MP/Kursovaya MP/bin/Debug/Kursovaya MP.pdb
+C:/Users/Кирилл/source/repos/Kursovaya MP/Kursovaya MP/obj/Debug/Kursovaya MP.csprojAssemblyReference.cache
+C:/Users/Кирилл/source/repos/Kursovaya MP/Kursovaya MP/obj/Debug/Kursovaya_MP.Form1.resources
+C:/Users/Кирилл/source/repos/Kursovaya MP/Kursovaya MP/obj/Debug/Kursovaya_MP.Properties.Resources.resources
+C:/Users/Кирилл/source/repos/Kursovaya MP/Kursovaya MP/obj/Debug/Kursovaya MP.csproj.GenerateResource.cache
+C:/Users/Кирилл/source/repos/Kursovaya MP/Kursovaya MP/obj/Debug/Kursovaya MP.exe
+C:/Users/Кирилл/source/repos/Kursovaya MP/Kursovaya MP/obj/Debug/Kursovaya MP.pdb
+C:/Users/Кирилл/source/repos/Kursovaya MP/Kursovaya MP/obj/Debug/Kursovaya_MP.Form2.resources
+C:/Users/Кирилл/source/repos/Kursovaya MP/Kursovaya MP/obj/Debug/Kursovaya_MP.Form3.resources
+C:/Users/Кирилл/source/repos/Kursovaya MP/Kursovaya MP/obj/Debug/Kursovaya_MP.Form4.resources
+/Volumes/Untitled/Kursovaya MP/Kursovaya MP/bin/Debug/Kursovaya MP.exe.config
+/Volumes/Untitled/Kursovaya MP/Kursovaya MP/bin/Debug/Kursovaya MP.exe
+/Volumes/Untitled/Kursovaya MP/Kursovaya MP/bin/Debug/Kursovaya MP.pdb
+/Volumes/Untitled/Kursovaya MP/Kursovaya MP/obj/Debug/Kursovaya MP.csproj.AssemblyReference.cache
+/Volumes/Untitled/Kursovaya MP/Kursovaya MP/obj/Debug/Kursovaya_MP.Form1.resources
+/Volumes/Untitled/Kursovaya MP/Kursovaya MP/obj/Debug/Kursovaya_MP.Form2.resources
+/Volumes/Untitled/Kursovaya MP/Kursovaya MP/obj/Debug/Kursovaya_MP.Form3.resources
+/Volumes/Untitled/Kursovaya MP/Kursovaya MP/obj/Debug/Kursovaya_MP.Form4.resources
+/Volumes/Untitled/Kursovaya MP/Kursovaya MP/obj/Debug/Kursovaya_MP.Properties.Resources.resources
+/Volumes/Untitled/Kursovaya MP/Kursovaya MP/obj/Debug/Kursovaya MP.csproj.GenerateResource.cache
+/Volumes/Untitled/Kursovaya MP/Kursovaya MP/obj/Debug/Kursovaya MP.csproj.CoreCompileInputs.cache
+/Volumes/Untitled/Kursovaya MP/Kursovaya MP/obj/Debug/Kursovaya MP.exe
+/Volumes/Untitled/Kursovaya MP/Kursovaya MP/obj/Debug/Kursovaya MP.pdb
+D:\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya MP.csprojAssemblyReference.cache
+D:\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya_MP.Form1.resources
+D:\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya_MP.Form2.resources
+D:\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya_MP.Form3.resources
+D:\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya_MP.Form4.resources
+D:\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya_MP.Properties.Resources.resources
+D:\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya MP.csproj.GenerateResource.cache
+D:\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya MP.exe
+D:\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya MP.pdb
+D:\Kursovaya MP\Kursovaya MP\bin\Debug\Kursovaya MP.exe.config
+D:\Kursovaya MP\Kursovaya MP\bin\Debug\Kursovaya MP.exe
+D:\Kursovaya MP\Kursovaya MP\bin\Debug\Kursovaya MP.pdb
+E:\Kursovaya MP\Kursovaya MP\bin\Debug\Kursovaya MP.exe.config
+E:\Kursovaya MP\Kursovaya MP\bin\Debug\Kursovaya MP.exe
+E:\Kursovaya MP\Kursovaya MP\bin\Debug\Kursovaya MP.pdb
+E:\Kursovaya MP\Kursovaya MP\bin\Debug\Control.Draggable.dll
+E:\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya_MP.Form1.resources
+E:\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya_MP.Form2.resources
+E:\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya_MP.Form3.resources
+E:\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya_MP.Form4.resources
+E:\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya_MP.Properties.Resources.resources
+E:\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya MP.csproj.GenerateResource.cache
+E:\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya MP.csproj.CopyComplete
+E:\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya MP.exe
+E:\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya MP.pdb
+E:\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya MP.csprojAssemblyReference.cache
+E:\Kursovaya MP\Kursovaya MP\bin\Debug\GongSolutions.WPF.DragDrop.dll
+E:\Kursovaya MP\Kursovaya MP\bin\Debug\GongSolutions.WPF.DragDrop.xml
+E:\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya_MP.Form5.resources
+E:\Kursovaya MP\Kursovaya MP\bin\Debug\nunit.framework.dll
+E:\Kursovaya MP\Kursovaya MP\bin\Debug\nunit.framework.xml
+E:\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya_MP.Form6.resources
+E:\Новая папка (2)\Kursovaya MP\Kursovaya MP\bin\Debug\Kursovaya MP.exe.config
+E:\Новая папка (2)\Kursovaya MP\Kursovaya MP\bin\Debug\Kursovaya MP.exe
+E:\Новая папка (2)\Kursovaya MP\Kursovaya MP\bin\Debug\Kursovaya MP.pdb
+E:\Новая папка (2)\Kursovaya MP\Kursovaya MP\bin\Debug\Control.Draggable.dll
+E:\Новая папка (2)\Kursovaya MP\Kursovaya MP\bin\Debug\GongSolutions.WPF.DragDrop.dll
+E:\Новая папка (2)\Kursovaya MP\Kursovaya MP\bin\Debug\nunit.framework.dll
+E:\Новая папка (2)\Kursovaya MP\Kursovaya MP\bin\Debug\GongSolutions.WPF.DragDrop.xml
+E:\Новая папка (2)\Kursovaya MP\Kursovaya MP\bin\Debug\nunit.framework.xml
+E:\Новая папка (2)\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya MP.csprojAssemblyReference.cache
+E:\Новая папка (2)\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya_MP.Form1.resources
+E:\Новая папка (2)\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya_MP.Form2.resources
+E:\Новая папка (2)\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya_MP.Form3.resources
+E:\Новая папка (2)\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya_MP.Form4.resources
+E:\Новая папка (2)\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya_MP.Form5.resources
+E:\Новая папка (2)\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya_MP.Form6.resources
+E:\Новая папка (2)\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya_MP.Properties.Resources.resources
+E:\Новая папка (2)\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya MP.csproj.GenerateResource.cache
+E:\Новая папка (2)\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya MP.csproj.CopyComplete
+E:\Новая папка (2)\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya MP.exe
+E:\Новая папка (2)\Kursovaya MP\Kursovaya MP\obj\Debug\Kursovaya MP.pdb
